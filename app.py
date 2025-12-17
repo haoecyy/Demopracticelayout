@@ -1,3 +1,7 @@
+
+import pandas as pd
+import streamlit as st
+
 data = {
     'Product': ['A', 'B', 'C'],
     'Sales': [1200, 850, 950],
