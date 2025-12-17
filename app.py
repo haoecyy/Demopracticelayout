@@ -10,4 +10,5 @@ data = {
 df = pd.DataFrame(data)
 
 st.dataframe(df)
+st.data_editor(df)
          
